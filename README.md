@@ -13,7 +13,7 @@ y - GL_TRIANGLE_STRIP\
 u - GL_TRIANGLE_FAN\
 i - GL_QUAD\
 o - GL_QUAD_STRIP\
-p - GL_POLYGON\
+p - GL_POLYGON
 
 GLUT 3D Primitives:\
 (Middle alphabetic line of keyboard)\
