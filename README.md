@@ -1,5 +1,5 @@
 # OpenGL-Primitives
-Show OpenGL geometric and GLUT 3D primitives using C. By default this program will have a white background and draw with red. Here is a key to the geometric shapes and 3D GLUT primitives one can draw:
+Show OpenGL geometric and GLUT 3D primitives using C. By default this program will have a white background and draw with red. Here is a key to the geometric shapes and 3D GLUT primitives one can draw using keystrokes:
 
 Key:
 Geometric Primitives:
