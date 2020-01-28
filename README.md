@@ -35,3 +35,5 @@ k - Solid Icosahedron\
 K - Wire Icosahedron\
 l - Solid Teapot\
 L - Wire Teapot
+
+Compiled Using:  gcc –lglut –lGLU -lGL bcc2primitives.c
