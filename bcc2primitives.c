@@ -1,8 +1,4 @@
-// Name: Blake Culbert
-// Date: 1/26/2020
-// Class: Computer Graphics
-/* This program will allow the user to display various geometric and
-   3D graphics using keyboard actions */
+
 
 #include <GL/glut.h>
 
